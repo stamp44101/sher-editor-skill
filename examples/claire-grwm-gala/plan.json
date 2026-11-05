@@ -1,0 +1,3 @@
+{"out":"reel.mp4","music":"music.mp3","look":"good","font":"/usr/share/fonts/opentype/inter/Inter-SemiBold.otf",
+ "hook":{"text":"getting ready for my first gala","y":300,"until":2.6,"size":56},
+ "shots":[{"file":"clips/c1.mp4","in":0,"dur":1.8},{"file":"clips/c2.mp4","in":1.0,"dur":1.8},{"file":"clips/c3.mp4","in":0.3,"dur":1.6},{"file":"clips/c4.mp4","in":0.5,"dur":1.8},{"file":"clips/c5.mp4","in":0.6,"dur":1.8},{"file":"clips/c6.mp4","in":0.8,"dur":1.8},{"file":"clips/c7.mp4","in":0,"dur":2.0},{"file":"clips/c8.mp4","in":0.4,"dur":2.4}]}
