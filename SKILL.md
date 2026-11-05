@@ -102,9 +102,9 @@ Cost (measured on two dry runs): start frame 2.75 + stills 10 + clips 31.5 + mus
 
 ### SFV - GRWM
 
-A 15s get-ready-with-me: 8 shots of about 1.8s, cut fast, ending on the outfit. Usually built from a reference (Copy a reference video).
+A 15s get-ready-with-me: 8 shots of about 1.8s, cut fast, ending on the outfit. With a reference, map its beats onto the table below (Copy a reference video); without one, use the table as it is.
 
-**a. Two base stills first** (Nano Banana 2.1, 2k, 9:16, the Character's Element `<<<id>>>` in the prompt): the getting-ready setting (robe or tank, bare skin, at a vanity or chair) and the finished outfit, full body (garment Element `<<<id>>>` and the garment named by what it is). QA both against the Element sheet and the product image.
+**a. Two base stills first** (Nano Banana 2.1, 2k, 9:16, the Character's Element `<<<id>>>` in the prompt): the getting-ready setting (robe or tank, bare skin, at a vanity or chair) and the finished outfit, full body (garment Element `<<<id>>>` and the garment named by what it is). When the picked DIRECTOR image (or its clothes swap from step 2) is full body, use it as the outfit base and its location as the payoff, and make only the setting base. QA both against the Element sheet and the product image.
 
 **b. Six more**, each with the matching base as `image_references` plus the Character's Element in the prompt:
 
